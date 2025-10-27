@@ -25,7 +25,7 @@ menu:
           url: 
           weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Kalman
+          url: https://en.wikipedia.org/wiki/Kalman_filter
           weight: 6
 
 params:
