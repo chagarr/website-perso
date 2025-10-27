@@ -1,4 +1,4 @@
-baseURL: "https://charlesgarrisi.org/hugo-website/" 
+baseURL: "https://chagarr.org/hugo-website/" 
 title: Moritz-Maria von Igelfeld
 theme: PaperMod
 
@@ -120,4 +120,3 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
-        
