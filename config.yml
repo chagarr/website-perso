@@ -29,10 +29,10 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Charles Garrisi's research papers, books, course materials, data, curriculum vitae, and contact information."
+    author: Charles Garrisi
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "November 2025"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Charles Garrisi
           subtitle: "I am a PhD student in Applied Mathematics at Mines Paris - PSL, under the supervision of François Pacaud and Welington De Oliveira."
-          imageUrl: "../id.jpeg"
+          imageUrl: "/Users/charlesgarrisi/Desktop/PhD/GitHub/id.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -79,25 +79,15 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
+          url: mailto:charlesgarrisi@yahoo.com
         - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: 
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: 
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://github.com/chagarr
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +95,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Charles Garrisi"
       icon: favicon.ico
       iconHeight: 18
 
