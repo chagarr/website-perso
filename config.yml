@@ -13,19 +13,19 @@ taxonomies:
 menu:
     main:
         - name: Books
-          url: books/
+          url: 
           weight: 5 
         - name: Papers
-          url: papers/
+          url: 
           weight: 2
         - name: Courses
-          url: courses/
+          url: 
           weight: 3
         - name: Data
-          url: data/
+          url: 
           weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          url: 
           weight: 6
 
 params:
@@ -55,25 +55,25 @@ params:
     profileMode:
           enabled: true
           title: Charles Garrisi
-          subtitle: "I am a PhD student in Applied Mathematics at Mines Paris - PSL, under the supervision of François Pacaud and Welington De Oliveira."
-          imageUrl: "/Users/charlesgarrisi/Desktop/PhD/GitHub/id.jpeg"
+          subtitle: "..."
+          imageUrl: "/Users/charlesgarrisi/Desktop/PhD/GitHub/id"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Papers
-              url: papers/
+              url: 
             - name: Data
-              url: data/
+              url: 
             - name: Books
-              url: books/
+              url: 
             - name: Courses
-              url: courses/
+              url: 
             - name: Tags
-              url: tags/
+              url: 
             - name: Archive
-              url: archive/
+              url: 
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: 
 
     socialIcons:
         - name: CV
@@ -83,7 +83,7 @@ params:
         - name: Zoom
           url: 
         - name: Location
-          url: location/
+          url: \location
         - name: Google Scholar
           url: 
         - name: GitHub
