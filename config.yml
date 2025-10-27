@@ -73,7 +73,7 @@ params:
             - name: Archive
               url: 
             - name: Blog
-              url: 
+              url: blog/
 
     socialIcons:
         - name: CV
