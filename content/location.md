@@ -9,8 +9,5 @@ hidemeta: true
 
 #### Office address
 
-Centre Automatique et Systèmes  
-
-
-
+Centre Automatique et Systèmes 
 
