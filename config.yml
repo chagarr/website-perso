@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Charles Garrisi
           subtitle: "..."
-          imageUrl: "/Users/charlesgarrisi/Desktop/PhD/GitHub/id"
+          imageUrl: "id.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
