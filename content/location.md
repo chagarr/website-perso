@@ -9,9 +9,9 @@ hidemeta: true
 
 #### Office address
 
-Centre Automatique et Systèmes
-Mines Paris-PSL  
-60 boulevard Saint-Michel
+Centre Automatique et Systèmes<br>
+Mines Paris-PSL<br>
+60 boulevard Saint-Michel<br>
 75006 Paris
 
 ---
