@@ -25,7 +25,7 @@ menu:
           url: 
           weight: 4 
         - name: Blog
-          url: 
+          url: https://en.wikipedia.org/wiki/Kalman
           weight: 6
 
 params:
@@ -83,7 +83,7 @@ params:
         - name: Zoom
           url: 
         - name: Location
-          url: \location
+          url: location/
         - name: Google Scholar
           url: 
         - name: GitHub
