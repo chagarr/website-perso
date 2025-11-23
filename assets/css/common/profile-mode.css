@@ -26,10 +26,10 @@
     width: 160px;
     height: 160px;
     object-fit: cover;
-    object-position: center 90%;
+    object-position: center 55%;
     border-radius: 50%;
     border: 1px solid var(--tertiary);
-    transform: scale(1.1);
+    transform: scale(1);
     transform-origin: center;
 }
 

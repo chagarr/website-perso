@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Charles Garrisi
-          subtitle: "..."
+          subtitle: "I am a PhD student in Applied Mathematics at Mines Paris - PSL, under the supervision of François Pacaud and Welington De Oliveira. My research focuses on large-scale stochastic optimization, that is how to make optimal decisions under uncertainty."
           imageUrl: "id.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -80,8 +80,6 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:charlesgarrisi@yahoo.com
-        - name: Zoom
-          url: 
         - name: Location
           url: location/
         - name: Google Scholar
