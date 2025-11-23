@@ -62,6 +62,8 @@ params:
           buttons:
             - name: News
               url: news/
+            - name: Blog
+              url: blog/
             - name: Papers
               url: paper/
             - name: Talks
@@ -73,7 +75,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: CV.pdf
         - name: Email
           url: mailto:charles.garrisi@minesparis.psl.eu
         - name: Location
