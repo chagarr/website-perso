@@ -12,21 +12,21 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
+        - name: News
           url: 
-          weight: 5 
+          weight: 1
         - name: Papers
           url: 
           weight: 2
-        - name: Courses
+        - name: Talks
           url: 
           weight: 3
-        - name: Data
+        - name: Teaching
           url: 
-          weight: 4 
+          weight: 4
         - name: Blog
           url: https://en.wikipedia.org/wiki/Kalman_filter
-          weight: 6
+          weight: 5
 
 params:
     description: "This website hosts Charles Garrisi's research papers, books, course materials, data, curriculum vitae, and contact information."
@@ -55,31 +55,27 @@ params:
     profileMode:
           enabled: true
           title: Charles Garrisi
-          subtitle: "I am a PhD student in Applied Mathematics at Mines Paris - PSL, under the supervision of François Pacaud and Welington De Oliveira. My research focuses on large-scale stochastic optimization, that is how to make optimal decisions under uncertainty."
+          subtitle: "I am a PhD student in Applied Mathematics at Mines Paris - PSL, under the supervision of François Pacaud and Welington de Oliveira. My research explores large-scale stochastic optimization, essentially how to make optimal decisions under uncertainty."
           imageUrl: "id.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: News
+              url: news/
             - name: Papers
-              url: 
-            - name: Data
-              url: 
-            - name: Books
-              url: 
-            - name: Courses
-              url: 
-            - name: Tags
-              url: 
-            - name: Archive
-              url: 
-            - name: Blog
-              url: blog/
+              url: paper/
+            - name: Talks
+              url: talks/
+            - name: Teaching
+              url: teaching/
+    
+          
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:charlesgarrisi@yahoo.com
+          url: mailto:charles.garrisi@minesparis.psl.eu
         - name: Location
           url: location/
         - name: Google Scholar

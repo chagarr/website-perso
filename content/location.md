@@ -8,6 +8,5 @@ hidemeta: true
 ---
 
 #### Office address
-
-Centre Automatique et Systèmes 
+60 Boulevard Saint-Michel, 75272 Paris
 
