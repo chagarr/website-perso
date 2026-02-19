@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Charles Garrisi
-          subtitle: "I am a PhD student in Applied Mathematics at Mines Paris - PSL, under the supervision of François Pacaud and Welington de Oliveira. My research explores large-scale optimization and data-driven decision-making under uncertainty."
+          subtitle: "I am a PhD student in Applied Mathematics at Mines Paris - PSL, under the supervision of François Pacaud and Welington de Oliveira. My research explores large-scale optimization and decision-making under uncertainty."
           imageUrl: "id.jpeg"
           imageWidth: 160
           imageHeight: 160
