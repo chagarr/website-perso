@@ -13,16 +13,16 @@ taxonomies:
 menu:
     main:
         - name: News
-          url: 
+          url: /news/
           weight: 1
         - name: Papers
-          url: 
+          url: /papers/
           weight: 2
         - name: Talks
-          url: 
+          url: /talks/
           weight: 3
         - name: Teaching
-          url: teaching/
+          url: /teaching/
           weight: 4
         - name: Blog
           url: https://en.wikipedia.org/wiki/Kalman_filter
