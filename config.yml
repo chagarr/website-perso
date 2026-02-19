@@ -22,7 +22,7 @@ menu:
           url: 
           weight: 3
         - name: Teaching
-          url: 
+          url: teaching/
           weight: 4
         - name: Blog
           url: https://en.wikipedia.org/wiki/Kalman_filter
@@ -65,7 +65,7 @@ params:
             - name: Blog
               url: blog/
             - name: Papers
-              url: paper/
+              url: papers/
             - name: Talks
               url: talks/
             - name: Teaching
